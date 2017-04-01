@@ -1,5 +1,5 @@
 # Home-Assistant-RFLink-Gateway-ESP8266
-Home Assistant to RFLink Gateway useing a NodeMCU (ESP8266 Wifi module)
+Home Assistant to RFLink Gateway using a NodeMCU (ESP8266 Wifi module)
 
 
 **Links**
@@ -15,3 +15,5 @@ Home Assistant to RFLink Gateway useing a NodeMCU (ESP8266 Wifi module)
 
 **Setup**
 esp-link Wi-Fi serial bridge running on a NodeMCU (ESP8266 Wifi module) with ESP8266 TXD0 (pin D10) and RXD0 (pin D9) connected to Arduino MEGA 2560 RX (Pin 2) and TX (Pin 3) respectively. 
+
+![Diagram](git_photos/RFLink Gatway_bb.png)
