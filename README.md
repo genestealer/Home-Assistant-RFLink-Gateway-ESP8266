@@ -20,9 +20,7 @@ Serial data is sent via the [esp-link V2.2.3](https://github.com/jeelabs/esp-lin
 Wiring of transmitter and receiver is as per [Arduino Wiring](http://www.nemcon.nl/blog2/wiring) on RFLink Gatway.
 
 ### esp-link Configuration
-
 WiFi mode:	STA
-
 esp-link pin assignment:
 - Reset: GPIO5 (Connected to Arduino reset pin)
 - Conn LED: GPIO2/TX1 (LED on ESP module)
