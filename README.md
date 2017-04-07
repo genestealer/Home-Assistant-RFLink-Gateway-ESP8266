@@ -21,7 +21,7 @@ Wiring of transmitter and receiver is as per [Arduino Wiring](http://www.nemcon.
 - [Home Assistant](https://home-assistant.io/)
 - [Arduino RFLink gateway](http://www.nemcon.nl/blog2/)
 - [RFLink component](https://home-assistant.io/components/rflink/)
-- [esp-link V2.2.3](https://github.com/jeelabs/esp-link/releases/tag/v2.2.3)
+- [esp-link V2.2.3](https://github.com/jeelabs/esp-link)
 
 ![Diagram](https://raw.githubusercontent.com/Genestealer/Home-Assistant-RFLink-Gateway-ESP8266/master/RFLink_Gatway_bb.jpg)
 
