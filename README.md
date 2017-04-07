@@ -18,3 +18,6 @@ Explain why two types of level converters are used
 Wiring of transmitter and receiver is as per [Arduino Wiring](http://www.nemcon.nl/blog2/wiring)
 
 ![Diagram](https://raw.githubusercontent.com/Genestealer/Home-Assistant-RFLink-Gateway-ESP8266/master/RFLink_Gatway_bb.jpg)
+
+My setup:
+![Diagram](https://raw.githubusercontent.com/Genestealer/Home-Assistant-RFLink-Gateway-ESP8266/master/Home-Assistant-RFLink-Gateway-ESP8266.jpg)
