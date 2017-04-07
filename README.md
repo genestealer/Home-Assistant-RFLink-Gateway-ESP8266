@@ -19,7 +19,7 @@ Serial data is sent via the [esp-link V2.2.3](https://github.com/jeelabs/esp-lin
 
 Wiring of transmitter and receiver is as per [Arduino Wiring](http://www.nemcon.nl/blog2/wiring) on RFLink Gatway.
 
-## esp-link Configuration
+### esp-link Configuration
 
 WiFi mode:	STA
 
