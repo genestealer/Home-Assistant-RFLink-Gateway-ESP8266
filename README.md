@@ -3,14 +3,8 @@ Home Assistant to RFLink Gateway using a NodeMCU (ESP8266 Wifi module)
 
 ## My Setup
 My [Home Assistant Config](https://github.com/Genestealer/Home-Assistant-Configuration)
-
-## ToDo 
-
-List bill of materials.
-
-Explain why two types of level converters are used
   
-## Setup
+## Detail
 
 [Home Assistant](https://home-assistant.io/) to [Arduino RFLink gateway](http://www.nemcon.nl/blog2/) using the [RFLink component](https://home-assistant.io/components/rflink/).
 
