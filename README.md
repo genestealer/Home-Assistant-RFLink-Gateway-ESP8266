@@ -17,7 +17,7 @@ Explain why two types of level converters are used
 
 Wiring of transmitter and receiver is as per [Arduino Wiring](http://www.nemcon.nl/blog2/wiring)
 
-## Links
+## Supporting Links
 - [Home Assistant](https://home-assistant.io/)
 - [Arduino RFLink gateway](http://www.nemcon.nl/blog2/)
 - [RFLink component](https://home-assistant.io/components/rflink/)
