@@ -14,6 +14,7 @@ Wiring of transmitter and receiver is as per [Arduino Wiring](http://www.nemcon.
 
 ### Example Bill Of Materials
  - [NodeMCU Amica (ESP8266)](https://www.aliexpress.com/item/V3-Wireless-module-NodeMcu-4M-bytes-Lua-WIFI-Internet-of-Things-development-board-based-ESP8266-esp/32647542733.html)
+ - [Arduino MEGA 2560](https://www.aliexpress.com/item/Mega-2560-CH340G-ATmega2560-16AU-Compatible-for-Arduino-Mega-2560/32517341214.htm)
  - [BSS138 bidirectional logic level converter (For serial pins)](https://www.aliexpress.com/item/IIC-I2C-Logic-Level-Converter-Bi-Directional-Module-5V-to-3-3V-For-Arduino-Upgrade-to/32669684009.html)
  - [Resistor based logic level converter (For CC2500) E.G.](https://www.aliexpress.com/item/8CH-IIC-I2C-Logic-Level-Converter-Bi-Directional-Module-DC-DC-5V-to-3-3V-Setp/32238089139.html)
  - [CC2500 2.4GHZ Transceiver](https://www.aliexpress.com/item/Wireless-Module-CC2500-2-4G-Low-power-Consistency-Stability-Small-Size/32702148262.html)
