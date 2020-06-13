@@ -58,4 +58,3 @@ Rev 2
 
 ![Diagram](https://raw.githubusercontent.com/genestealer/Home-Assistant-RFLink-Gateway-ESP8266/master/new-case2.jpg)
 
-![Diagram](https://raw.githubusercontent.com/genestealer/Home-Assistant-RFLink-Gateway-ESP8266/master/new-case3.jpg)
