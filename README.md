@@ -1,6 +1,7 @@
 # Home-Assistant-RFLink-Gateway-ESP8266
 Home Assistant to RFLink Gateway using a NodeMCU (ESP8266 Wifi module)
-NOTE: I'm aware there are some errors on the wiring, please use the wiring as detailed in [Jeelabs esp-link](https://github.com/jeelabs/esp-link) and use this as refrence only.
+
+## NOTE: I'm aware there are some errors on the wiring, please use the wiring as detailed in [Jeelabs esp-link](https://github.com/jeelabs/esp-link) and use this as refrence only.
 
 ## My Setup
 My [Home Assistant Config](https://github.com/Genestealer/Home-Assistant-Configuration)
