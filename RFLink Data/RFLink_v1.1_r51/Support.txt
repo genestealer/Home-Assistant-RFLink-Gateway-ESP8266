@@ -1,0 +1,19 @@
+RFLink Support:
+---------------
+
+- Generic RFLink Information:
+RFLink:			https://www.rflink.nl
+Supported devices:	https://www.rflink.nl/devlist.php
+Unsupported devices:	https://www.rflink.nl/develop.php
+Telegram:		https://t.me/r_f_l_i_n_k
+
+- Download of latest firmware and rflink loader:
+                        https://www.rflink.nl/download.php
+
+                        
+- All development related questions and remarks:
+Email:			frankzirrone@gmail.com
+Forum: 			http://www.letscontrolit.com/forum/viewforum.php?f=8
+
+- Dedicated support forums:
+Domoticz: 		http://www.domoticz.com/forum/viewforum.php?f=49

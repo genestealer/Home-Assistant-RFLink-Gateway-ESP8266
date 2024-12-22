@@ -1,0 +1,331 @@
+﻿For the most recent list of supported devices check online:
+https://www.rflink.nl
+
+============================================================================
+Nodo - RFLink supported devices list
+============================================================================
+Remote Controls and Electrical Switches / Dimmers etc.:
+ARC Protocol:                                       (Send + Receive)
+ - Klik Aan Klik Uit (Code Wheel)                    
+ - Princeton PT2262  
+ - MOSDESIGN M3EB  
+ - Domia Lite  
+ - Intertechno 
+ - CoCo Technologies  
+ - Cogex  
+ - D-IO (Chacon)  
+ - Nexa  
+ - Düwi Terminal   
+ - Promax RSL366T   
+ - Conrad 640472, 640473, 640475, 640476   
+ - ME FLS 100  
+ - Profile PR-44N, PR-47N  
+ - Sartano 2606  
+ - Impuls   
+ - Elro AB400  
+ - Everflourish EMW200   
+ - Everflourish EMW203   
+ - Waveman  
+ - Elro Home Comfort AB600  
+ - (Elro) Home Control   
+ - Smarthome YC-4000B  
+ - Phenix YC-4000S  
+ - Pollin Funk-Dimmer HouseLight FD-UP001   
+ - Pollin Funk-Steckdosen-Set 2605  
+ - Conrad 646443 outlet sockets / RSL366R   
+ - Proteam HO1853  
+ - Velleman WRS3B   
+ - "Emil Lux"/LUX-Tools (Obi.de Art.Nr. 2087971)   
+ - Znane-01 switch set sold at Biedronka (Impuls clone)   
+ - Renkforce   
+ - Etekcity ZAP   
+  
+Automatic Code Learning Protocols:                  (Send + Receive)  
+- Klik Aan Klik Uit  
+  (All products, among others: AWMR210, AWMT230, AWMD250, AWST8800)  
+- CoCo Technologies   
+- Trust SmartHome (All products, among others: AMST-606)  
+- Nexa Jula Anslut   
+  (among others: 408-063, 408-064)   
+- Home Easy EU (among others HE100, HE200, HE300, AB600/HE600, HE800)   
+- Smartwares (SH5-TDR-K 10.037.17)  
+- Maclean Energy MCE04 & 07 remote control and switches   
+- Proove switch sets (oa. TSP 800)   
+- Elimex (All products, among others: LYCT505 - 24.132, 24.130, 24.131, 24.134, 24.138, 24.139)   
+   
+Others:                                             (Send + Receive)	
+- Home Easy (Code Wheel)   
+- Unitec 48110 EIM 826 / 48111 EIM 821  
+- Quigg GT-1000 RC / Quigg GT-FSI-08   
+- Intertek Eurodomest 972080 (Protocol revision 1 & 2 - full autodetection)   
+- Intertek Eurodomest 972086 (Protocol revision 1 & 2 - full autodetection)    
+- ProMax 75.0006.14 (Sold at Action)    
+- Blyss   
+- Conrad RSL2, Conrad RSL88R/B  
+- Kambrook RF3399/RF3405/RF3672/RF3689/RF4471R   
+- X10 RF switches   
+- Home Confort Smart Home - Among others: TEL-010, PRF-100  
+- Quigg GT-7008BS, Quigg GT-FSI-04  
+- DMV-7008S   
+- Mandolyn RC-710
+- Powerfix RCB-I 3600  
+- Quigg GT-8000
+- Chacon (TR-502MSV, NR.RC402)   
+- Rev Ritter REV 8342L  
+- Ikea Koppla  
+- TRC02 RGB Controller  
+- Aster / GEMINI   EMC/99/STI/037   
+- Silvercrest l36-001  
+- Silvercrest IAN7443 type 10164 R RC202
+- R546 wireless switch set   
+- Everflourish EMW100 / Cotech EMW100R   
+- Novatys wall switches      
+- Flamingo FA500R/S/DSS/WD                           
+- Tec Star 2335191R   
+- SilverCrest 91210/60494 RCS AAA3680  
+- Mumbi M-FS300  
+- Toom 1919384   
+- Solight switch set   
+- Livolo   
+- FunkBus remote control (Insta / Berker / Gira / Jung) (receive only)   
+- Mercury 350.115UK   
+
+Weather Sensors:
+- Alecto V1:  
+          Alecto WS3500, Alecto WS1500, SilverCrest, Otio SH-10, Otio SH-20   
+          Auriol H13726, Ventus WS155, Hama EWS 1500, Meteoscan W155/W160   
+          Alecto WS4500, Ventus W044, Balance RF-WS105   
+- Alecto V2: (868 Mhz!)   
+          ACH2010, DKW2012  
+- Alecto V3:   
+          WS1100, WS1200   
+- Alecto V4:   
+          Banggood SKU174397, Sako CH113, Homemart/Onemall FD030 and Blokker (Dake) 1730796 outdoor temperature sensor   
+- GlobalTronics:   
+         GT-WT-01, GT-WT-02   
+- Cresta/Hideki:   
+          Hideki, TFA Nexus, Mebus, Irox, Irox-Pro X, Honeywell, Cresta TE923, TE923W, TE821W,  
+          WXR810, DV928, Ventus W906, HomeWizard Rain meter   
+- Mebus:   
+          Mebus Outdoor Sensor   
+          Stacja Pogody WS-9941-M    
+- UPM/Esic:   
+          UPM, Esic, Emos, DVM, Clas Ohlson, Dickson    
+          WT260,WT260H,WT440H,WT450,WT450H,WDS500,RG700   
+- LaCrosse:  
+          Lacrosse TX3-TH  Thermo/Humidity, Lacrosse TX4   
+          WS7000-15: Anemometer, WS7000-16: Rain precipitation, WS2500-19: Brightness Luxmeter,   
+          WS7000-20: Thermo/Humidity/Barometer, TFA 30.3125 (temperature + humidity), TFA 30.3120.30, TFA 30.3120.90 (temperature)    
+- LaCrosseV2:    
+          WS2300 (Temperature/Humidity/Wind/Rain), WS2310, WS2355, WS3600   
+- Auriol:   
+          Z31743, Rubicson   
+- Auriol V2:    
+          Z31055A-TX, Z31055B-TX version 09/2012, Xiron, Watshome YT6018-2, Technoline   
+          Aok-2026, Aok-2011, Tunex MF-0211  
+- Auriol V3:    
+          Z32171A, XT200, Fine Offset, Hadex T093, WH5029   
+- FineOffset:         
+          Fine Offset Electronics WH2, Agimex Rosenborg 66796, ClimeMET CM9088, Tesa WH1150      
+- Eurochron:   
+          EAS 301Z / EAS 302 / Tchibo               
+- Prologue:    
+          Clas Ohlson 36-4741, Clas Ohlson 36-5087   
+- Krippl:   
+          Krippl temperature/humidity sensor          
+- InoValley:   
+          SM302 Temperature&Humidity sensor          
+- Oregon V1/2/3:   
+          THC238, THC268, THN132N, THWR288A, THRN122N, THN122N, AW129, AW131, THGR268, THGR122X, THGR122N    
+          THGN122N, THGN123N, THGR122NX, THGR228N, THGR238, WTGR800, THGR918, THGRN228NX, THGN500, RTGN318     
+          THGR810, RTGR328N, THGR328N, Huger BTHR918, BTHR918N, BTHR968, RGR126, RGR682, RGR918, PCR122,   
+          THWR800, THR128, THR138, THC138, RGR928,   
+          UVN128, UV138, UVN800, Huger-STR918, WGR918, WGR800, PCR800, WGTR800, BTHG968, BTHGN129   
+- Biltema:             
+          Biltema 84056   
+- Fine Offset:
+          Fine Offset / Viking / WMS Mk3 / Proove TSS320             
+   
+Pool/Water Thermometer:   
+          Conrad 9771 Pool Thermometer  
+          WT0122 Pool Thermometer   
+          
+Soil : Temperature & Moisture/Humidity Sensors   
+          Imagintronix XH300 sensor  
+          TH12 Opus TX300  
+
+Electricity Monitoring:
+- OWL CM113    
+- OWL CM119   
+- OWL CM130   
+- OWL CM160    
+- OWL CM180   
+- OWL +USB   
+- OWL Micro   
+- cent-a-meter       
+- Electrisave   
+- Revolt NC-5461 Energy Meter               See Note   
+- Otio Energy Meter                         See Note   
+- Profitec Funk Energiekosten Messgeraet    See Note   
+
+Note:   
+These devices send a large RF burst every 10 seconds.    
+This means that they could fill a lot of the available 433mhz bandwidth and you should use these devices with care.    
+             
+Dusk Sensors (Light On/Off detection):  
+- Kaku ABST-604  
+- Home Easy HE863  
+- Intertechno ITDS-5   
+   
+Relay controllers:   
+- 1Key 315/433MHZ Wireless Module Receiver Controller For Relay Remote SwitchBA   
+- AK-RK01S-220-A AC 220 V 1CH 433 MHz   
+      
+Window blinds/shutters/sun screens:  
+- Kaku ASUN650  
+- Intertechno CMR-500, ITL-500, ITL-1000    
+- Bofu motor controller (Rollertrol?)   
+- Brel motor controller (ao. DC90, DC115, DC229, DC230 and others)   
+- Faher motor controller DC305, DC307   
+- Forest "Touch Sense Motors" Curtain control   
+- Rohrmotor24    
+- Romotec   
+- A-OK Blind controller (ao. AC114-01B and others)   
+- Dooya RF Roller blinds (ao. AC123-16 and others)   
+- RTS   
+- Koch                                                              (receive only)   
+- Kingpin motor controls   
+- Condrad RSL blind controller 640579    
+   
+Motion Detectors:   
+- Low Budget Chinese PIR (only signals motion detection)   
+  based on EV1527 & HX2262 (If timing resistor present, any resistor value will work)   
+- Aritech PIR (only signals motion detection)   
+- Ajax Chub Varel PIR (only signals motion detection)   
+- Chuango: among others PIR-900 PIR sensor   
+- KAKU APIR-2150
+- KAKU AWST-6000
+- Oregon Scientific NR868 PIR/night light  
+- Oregon Scientific MSR939 PIR   
+- X10 security sensors (ao. Haibrain MS13)      
+- Atlantic's security sensors (ao. MD326,FT89R)   
+- MC145026  
+- Friedland DC4 PIR  
+- Starlux ST101 PIR   
+      
+Door/Window sensors:  
+- Low Budget Chinese Door/Window detectors   
+  based on EV1527 & HX2262 (If timing resistor present, any resistor value will work)   
+- Intertechno ITM-100  
+- KAKU AMST-606 door/window sensor (seperate signals for open and close)   
+- Home Easy HE852   
+- CHACON DIO 54781 (seperate signals for open and close)   
+- COCO (separate signals for open and close)  
+- Evology door/window contact sensor   
+- ELMES CTX3H, CTX4H   
+- Chuango: among others DWC-100 Door sensor, DWC-102 Door sensor   
+- Avidsen Door contact 102359   
+- X10 security sensors   
+- Atlantic's security sensors   
+- Sigmatek door contact   
+- MC145026   
+- Lobeco NX-450N-I   
+- LightwaveRF Contact Switch    
+
+Gate openers                                                                  (Send + Receive)
+- BFT   
+   
+Alarm systems, secure gate openers, garage doors (Receive of sensors and remotes ONLY!)  
+- Visonic Powermax (Keeloq)    
+- Nice Smilo (Keeloq)   
+- FAAC   
+- Logipark    
+ 
+Sirene:
+- X10 security sensors                                                           (Send + Receive)   
+- KD101                                                                          (Send + Receive)  
+- Flamingo FA20RF                                                                (Send + Receive)  
+- Flamingo FA21RF                                                                (Send + Receive)  
+- Diamant Smoke alarm                                                            (Send + Receive) 
+- Chacon 34126                                                                   (Send + Receive)
+- Altantic's security sensors                                                    
+    
+Heating and Fireplace:  
+- Mertik G6R H4T1 / Dru                                                          (Send + Receive)  
+- Smartwares SH5-TDR-A / SHS 5300 Heating Controller / Radiator Valve (Initial support)    
+   
+Smoke Detectors:  
+- KD101                                                                          (Send + Receive)  
+- Flamingo FA20RF                                                                (Send + Receive)  
+- Flamingo FA21RF                                                                (Send + Receive)  
+- Diamant Smoke alarm                                                            (Send + Receive)  
+- Chacon 34126                                                                   (Send + Receive)   
+- Nexa 101LC                                                                     (Send + Receive)   
+- Alecto SA30/SA33                                                               (Send + Receive)   
+- Low Budget Chinese Smoke Detector   
+  based on EV1527 & HX2262 (If timing resistor present, any resistor value will work)   
+
+Doorbells:  
+- SelectPlus (200689103 - Black - Datecode:0614), 1 by One, Delta (O00 QH-0031)  (Send + Receive)  
+- SelectPlus (200689101 - White - Datecode:0914)                                 (Send + Receive)  
+- SelectPlus (5251178 - Black -                                                  (Send + Receive)  
+- Deltronic Wireless Doorbell                                                    (Send + Receive)  
+- RL-02 Wireless Doorbell                                                        (Send + Receive)  
+- Byron SX (among others SX21)                                                   (Send + Receive)  
+- KAKU ACDB 6500BC                                                               (Send + Receive)  
+- Heidemann HX Silverline 70290                                                  (Send + Receive)  
+- Elro (ao. DB270)                                                               (Send + Receive)  
+- NEXA LML-710                                                                   (Send + Receive)  
+- Forrinx                                                                        (Receive)  
+- L^Home model 32311T                                                            (Receive)  
+- SilverCrest Z31370-TX                                                          (Receive)  
+- Medion MD 16179                                                                (Receive)  
+- Envivo PO-1413                                                                 (Receive)  
+- Synapse SN-1613                                                                (Receive)  
+- Friedland EVO Decor ED1, EVO Decor ED3                                         (Receive)   
+- Plieger York                                                                   (Receive)   
+  Note that when the Plieger button is detected as Conrad RSL2, you need to use the button on the inside of the Plieger doorbell to change the address code of the Plieger.  
+  
+Nodo Slave Sensors:    
+Various Nodo sensor types are supported.   
+Make sure you use Nodo Slave ID 1,2, 4 till 9 to make the sensor a separate sensor.   
+If you want to have combined sensors (eg temperature + humidity in one device) make sure   
+you use Nodo Slave ID 10 till 16   
+   
+The following variable / sensor types are currently supported   
+   
+Variable  5          : Temperature   
+Variable  6          : Humidity   
+Variable  7          : Rain   
+Variable  8          : Wind speed   
+Variable  9          : Wind direction        
+Variable 10          : Wind gust   
+Variable 11, 12 en 13 : Temperature   
+Variable 14           : Humidity   
+Variable 15           : UV   
+Variable 16           : Barometric pressure    
+   
+   
+Electricity/Water/Gas pulse meters are supported when using the following Nodo variable numbers:   
+Make sure the slave devices are using Nodo Slave ID 3 !!!   
+
+Variable 1 : Pulse value 1   
+Variable 2 : Pulse value 2   
+Variable 3 : Pulse value 3   
+Including variable 4,5,6,7,8,9,10,11,12,13,14,15
+Variable 16: Pulse value 16   
+
+
+2.4 Ghz devices:    
+RFlink supports NodoNRF devices, MiLight / LimitlessLED / Applamp / Easybulb devices.
+
+NodoNRF:
+NodoNRF devices are sensors based on the Nodo project.
+
+MiLight / LimitlessLED / Applamp / Easybulb devices:
+2.4Ghz light bulbs and led strips that can be controlled with a remote or a wifi bridge.
+RFlink has the ability to transmit to these devices like the remote and bridge but can also receive the signals from the remote and bridge.
+Up to 262140 unique lamps can be controlled. 
+
+   
+If you require support for other sensors just let us know.   
