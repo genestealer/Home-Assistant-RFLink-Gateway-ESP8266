@@ -45,4 +45,16 @@ My setup, wiring:
 ![Diagram](https://raw.githubusercontent.com/Genestealer/Home-Assistant-RFLink-Gateway-ESP8266/master/RFLink_Gatway_bb.jpg)
 
 My setup, photo:
+
+Rev 1
+
 ![Diagram](https://raw.githubusercontent.com/Genestealer/Home-Assistant-RFLink-Gateway-ESP8266/master/Home-Assistant-RFLink-Gateway-ESP8266.jpg)
+
+Rev 2
+
+![Diagram](https://raw.githubusercontent.com/genestealer/Home-Assistant-RFLink-Gateway-ESP8266/master/new-case0.jpg)
+
+![Diagram](https://raw.githubusercontent.com/genestealer/Home-Assistant-RFLink-Gateway-ESP8266/master/new-case1.jpg)
+
+![Diagram](https://raw.githubusercontent.com/genestealer/Home-Assistant-RFLink-Gateway-ESP8266/master/new-case2.jpg)
+
